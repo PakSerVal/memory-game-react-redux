@@ -1,0 +1,25 @@
+.GameOver {
+    text-align: center;
+}
+
+.Title {
+    text-transform: uppercase;
+    color:          #63CC28;
+    font-size:      20px;
+}
+
+.ButtonStart {
+    margin-top:    10px;
+    background:    #FFF;
+    border:        1px solid #CCC;
+    padding:       10px;
+    border-radius: 5px;
+    font-size:     15px;
+    font-weight:   bold;
+    cursor:        pointer;
+    transition:    background .4s ease-in-out;
+}
+
+.ButtonStart:hover {
+    background: #63CC28;
+}

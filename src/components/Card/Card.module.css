@@ -1,0 +1,43 @@
+.Card {
+    width:   120px;
+    height:  120px;
+    padding: 15px;
+    cursor:  pointer;
+}
+
+.Card img {
+    width:  100%;
+    height: 100%;
+}
+
+.Inner {
+    position:        relative;
+    width:           100%;
+    height:          100%;
+    transition:      transform 0.4s;
+    transform-style: preserve-3d;
+}
+
+.InnerFlipped {
+    transform: rotateY(180deg);
+}
+
+.Front, .Back {
+    position:                    absolute;
+    top:                         0;
+    left:                        0;
+    width:                       100%;
+    height:                      100%;
+    backface-visibility:         hidden;
+    -webkit-backface-visibility: hidden;
+}
+
+.Front {
+    background-color: #FBAB7E;
+    background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+
+}
+
+.Back {
+    transform: rotateY(180deg);
+}

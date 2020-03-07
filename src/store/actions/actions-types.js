@@ -1,0 +1,7 @@
+export const CARDS_LOADED      = 'CARDS_LOADED';
+export const SET_FLIPPED_CARDS = 'SET_FLIPPED_CARDS';
+export const SET_GUESSED_CARDS = 'SET_GUESSED_CARDS';
+
+export const SET_GAME_OVER  = 'SET_GAME_OVER';
+export const INCREMENT_MOVE = 'INCREMENT_MOVE';
+export const START_NEW_GAME = 'NEW_GAME';

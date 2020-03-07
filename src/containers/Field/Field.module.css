@@ -1,0 +1,7 @@
+.Field {
+    display:   flex;
+    flex-wrap: wrap;
+    width:     600px;
+    margin:    50px auto;
+    border:    1px solid #CCC;
+}
