@@ -1,7 +1,7 @@
 import React from "react";
 import classes from "./Field.module.css";
 import {connect} from "react-redux";
-import {flipCard, initField} from "../../store/actions/field";
+import {flipCard, initField} from "../../store/actions/cards";
 import Card from "../../components/Card/Card";
 
 class Field extends React.Component {

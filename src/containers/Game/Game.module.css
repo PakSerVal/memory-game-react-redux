@@ -3,6 +3,8 @@
 }
 
 .GameTitle {
+    margin-top:  10px;
     text-align:  center;
     font-weight: bold;
+    font-size:   18px;
 }

@@ -1,5 +1,5 @@
 import {INCREMENT_MOVE, SET_GAME_OVER, START_NEW_GAME} from "./actions-types";
-import {initField} from "./field";
+import {initField} from "./cards";
 
 export function startNewGame() {
     initField();

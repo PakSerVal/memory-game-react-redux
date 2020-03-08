@@ -1,6 +1,5 @@
 .Card {
-    width:   120px;
-    height:  120px;
+    width:   calc(25% - 30px);
     padding: 15px;
     cursor:  pointer;
 }
@@ -12,8 +11,8 @@
 
 .Inner {
     position:        relative;
+    padding-top:     100%;
     width:           100%;
-    height:          100%;
     transition:      transform 0.4s;
     transform-style: preserve-3d;
 }
