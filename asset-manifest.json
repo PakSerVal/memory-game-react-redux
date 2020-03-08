@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/memoriy-game-react-redux/static/css/main.3cff9986.chunk.css",
-    "main.js": "/memoriy-game-react-redux/static/js/main.77725ad0.chunk.js",
-    "main.js.map": "/memoriy-game-react-redux/static/js/main.77725ad0.chunk.js.map",
-    "runtime-main.js": "/memoriy-game-react-redux/static/js/runtime-main.4584dba6.js",
-    "runtime-main.js.map": "/memoriy-game-react-redux/static/js/runtime-main.4584dba6.js.map",
-    "static/js/2.a0d9c879.chunk.js": "/memoriy-game-react-redux/static/js/2.a0d9c879.chunk.js",
-    "static/js/2.a0d9c879.chunk.js.map": "/memoriy-game-react-redux/static/js/2.a0d9c879.chunk.js.map",
-    "index.html": "/memoriy-game-react-redux/index.html",
-    "precache-manifest.77e57f31f23826cc446a6421b000ee70.js": "/memoriy-game-react-redux/precache-manifest.77e57f31f23826cc446a6421b000ee70.js",
-    "service-worker.js": "/memoriy-game-react-redux/service-worker.js",
-    "static/css/main.3cff9986.chunk.css.map": "/memoriy-game-react-redux/static/css/main.3cff9986.chunk.css.map",
-    "static/js/2.a0d9c879.chunk.js.LICENSE.txt": "/memoriy-game-react-redux/static/js/2.a0d9c879.chunk.js.LICENSE.txt"
+    "main.css": "/memory-game-react-redux/static/css/main.3cff9986.chunk.css",
+    "main.js": "/memory-game-react-redux/static/js/main.3667fbda.chunk.js",
+    "main.js.map": "/memory-game-react-redux/static/js/main.3667fbda.chunk.js.map",
+    "runtime-main.js": "/memory-game-react-redux/static/js/runtime-main.0ea6855d.js",
+    "runtime-main.js.map": "/memory-game-react-redux/static/js/runtime-main.0ea6855d.js.map",
+    "static/js/2.a0d9c879.chunk.js": "/memory-game-react-redux/static/js/2.a0d9c879.chunk.js",
+    "static/js/2.a0d9c879.chunk.js.map": "/memory-game-react-redux/static/js/2.a0d9c879.chunk.js.map",
+    "index.html": "/memory-game-react-redux/index.html",
+    "precache-manifest.a0c8da93883ce402a84a94cd980f12a2.js": "/memory-game-react-redux/precache-manifest.a0c8da93883ce402a84a94cd980f12a2.js",
+    "service-worker.js": "/memory-game-react-redux/service-worker.js",
+    "static/css/main.3cff9986.chunk.css.map": "/memory-game-react-redux/static/css/main.3cff9986.chunk.css.map",
+    "static/js/2.a0d9c879.chunk.js.LICENSE.txt": "/memory-game-react-redux/static/js/2.a0d9c879.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4584dba6.js",
+    "static/js/runtime-main.0ea6855d.js",
     "static/js/2.a0d9c879.chunk.js",
     "static/css/main.3cff9986.chunk.css",
-    "static/js/main.77725ad0.chunk.js"
+    "static/js/main.3667fbda.chunk.js"
   ]
 }
