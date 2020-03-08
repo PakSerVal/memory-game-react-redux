@@ -1,35 +1,35 @@
 const cards = [
     {
         imageId: 1,
-        imageSrc: '/img/chicken.png',
+        imageSrc: 'img/chicken.png',
     },
     {
         imageId: 2,
-        imageSrc: '/img/cat.png',
+        imageSrc: 'img/cat.png',
     },
     {
         imageId: 3,
-        imageSrc: '/img/chameleon.png',
+        imageSrc: 'img/chameleon.png',
     },
     {
         imageId: 4,
-        imageSrc: '/img/cow.png',
+        imageSrc: 'img/cow.png',
     },
     {
         imageId: 5,
-        imageSrc: '/img/duck.png',
+        imageSrc: 'img/duck.png',
     },
     {
         imageId: 6,
-        imageSrc: '/img/lion.png',
+        imageSrc: 'img/lion.png',
     },
     {
         imageId: 7,
-        imageSrc: '/img/pig.png',
+        imageSrc: 'img/pig.png',
     },
     {
         imageId: 8,
-        imageSrc: '/img/toucan.png',
+        imageSrc: 'img/toucan.png',
     },
 
 ];
