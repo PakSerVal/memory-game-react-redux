@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3c4d725534367930f4976e3520bf62af",
+    "revision": "8a110a6254a9f5d5ff708af8c195301b",
     "url": "/memory-game-react-redux/index.html"
   },
   {
-    "revision": "ddcc6ae3281caa04721d",
+    "revision": "3937291b8bbdacbad6fb",
     "url": "/memory-game-react-redux/static/css/main.3cff9986.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/memory-game-react-redux/static/js/2.0c7baa9c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ddcc6ae3281caa04721d",
-    "url": "/memory-game-react-redux/static/js/main.3869f39c.chunk.js"
+    "revision": "3937291b8bbdacbad6fb",
+    "url": "/memory-game-react-redux/static/js/main.eb5b3663.chunk.js"
   },
   {
     "revision": "c8c401fddd391ecfcbef",
