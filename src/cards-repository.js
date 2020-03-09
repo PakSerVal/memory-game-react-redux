@@ -1,37 +1,36 @@
 const cards = [
     {
         imageId: 1,
-        imageSrc: 'img/chicken.png',
+        imageSrc: process.env.PUBLIC_URL + '/img/chicken.png',
     },
     {
         imageId: 2,
-        imageSrc: 'img/cat.png',
+        imageSrc: process.env.PUBLIC_URL + '/img/cat.png',
     },
     {
         imageId: 3,
-        imageSrc: 'img/chameleon.png',
+        imageSrc: process.env.PUBLIC_URL + '/img/chameleon.png',
     },
     {
         imageId: 4,
-        imageSrc: 'img/cow.png',
+        imageSrc: process.env.PUBLIC_URL + '/img/cow.png',
     },
     {
         imageId: 5,
-        imageSrc: 'img/duck.png',
+        imageSrc: process.env.PUBLIC_URL + '/img/duck.png',
     },
     {
         imageId: 6,
-        imageSrc: 'img/lion.png',
+        imageSrc: process.env.PUBLIC_URL + '/img/lion.png',
     },
     {
         imageId: 7,
-        imageSrc: 'img/pig.png',
+        imageSrc: process.env.PUBLIC_URL + '/img/pig.png',
     },
     {
         imageId: 8,
-        imageSrc: 'img/toucan.png',
+        imageSrc: process.env.PUBLIC_URL + '/img/toucan.png',
     },
-
 ];
 
 export function getShuffledCards() {

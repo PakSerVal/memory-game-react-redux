@@ -1,5 +1,5 @@
-import {CARDS_LOADED, INCREMENT_MOVE, SET_FLIPPED_CARDS, SET_GAME_OVER, SET_GUESSED_CARDS} from "./actions-types";
-import {getShuffledCards} from "../../core/cards-repository";
+import {CARDS_LOADED, SET_FLIPPED_CARDS, SET_GUESSED_CARDS} from "./actions-types";
+import {getShuffledCards} from "../../cards-repository";
 import {incrementMove, setGameOver} from "./game";
 
 export function initField() {

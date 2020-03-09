@@ -3,6 +3,7 @@ import classes from "./Game.module.css";
 import {connect} from "react-redux";
 import GameOver from "../../components/GameOver/GameOver";
 import {startNewGame} from "../../store/actions/game";
+import {initField} from "../../store/actions/cards";
 
 class Game extends React.Component {
 
@@ -32,7 +33,10 @@ function mapStateToProps(state) {
 
 function mapDispatchToProps(dispatch) {
     return {
-        startNewGame: () => dispatch(startNewGame()),
+        startNewGame: () => {
+            dispatch(initField());
+            dispatch(startNewGame());
+        },
     };
 }
 
